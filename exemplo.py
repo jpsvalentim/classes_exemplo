@@ -32,3 +32,5 @@ cliente = cliente("joao", "pedro@edu","basic")
 
 print(cliente.plano)
 cliente.ver_filme("harry potter" , "premium")
+print(cliente.plano)
+cliente.ver_filme("harry potter" , "premium")
